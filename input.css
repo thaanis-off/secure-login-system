@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  line-height: 28px;
+  font-feature-settings: "cv11";
+}
+
+.tns {
+  line-height: 28px;
+}
